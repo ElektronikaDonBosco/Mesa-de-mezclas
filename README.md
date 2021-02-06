@@ -1,66 +1,87 @@
-# Mesa-de-mezclas
-Este proyecto consiste en una mesa de mezclas. La mesa de mezcla de audio o mezcladora de sonidos es un dispositivo electrónico al cual se conectan diversos elementos emisores de audio, tales como micrófonos etc. Esta mesa de parte aluminio y parte metacrilato, irá alimentada a 45V y tendrá un overload por si hay alguna sobrecarga.
+# MESA DE MEZCLAS
 
-Para poner en la página de Don Bosco:
+## GRUPO_MIXER_1500 (Irene, Aritz y Amaia)
 
-Este proyecto consiste en una mesa de mezclas. La mesa de mezcla de audio o mezcladora de sonidos es un dispositivo electrónico al cual se conectan diversos elementos emisores de audio, tales como micrófonos etc. Esta mesa de parte aluminio y parte metacrilato, irá alimentada a 45V y tendrá un overload por si hay alguna sobrecarga.
+### Este proyecto consiste en una mesa de mezclas. La mesa de mezcla de audio o mezcladora de sonidos es un dispositivo electrónico al cual se conectan diversos elementos emisores de audio, tales como micrófonos etc. 
 
-Para poner en GitHub:
+### Antes de profundizar en nuestro proyecto aquí tenéis  introducción de lo que vamos a ver:
 
-Contenido:
+![Mesa](https://www.softzone.es/app/uploads-softzone.es/2019/10/Mesa-de-mezclas-DJ.jpg)
 
-1.- Introducción
+## 1.- Introducción
 
-2.- Cómo funciona una mesa de mezclas (con sus partes)
+## 2.- Cómo funciona una mesa de mezclas (con sus partes)
 
-- Micrófono y preamplificación
-- Control de tono
-- Fader y módulo de panorama
-- Indicador de sobrecarga o &quot;overload indicator&quot;
-- Caja protectora
+### a- Micrófono y preamplificación
 
-3.- Componentes importantes/distintos
+### b- Control de tono
 
-4.- Programas que hemos utilizado
+### c- Fader y módulo de panorama
 
-- Proteus
-- Circuit Cam
+### d- Indicador de sobrecarga overload indicator
 
-5.- Como hicimos el proyecto
+## 3.-Prototipo y diseño del chasis
 
-6.- Fotos de nuestro prototipo
+### a-Planos y medidas
+### b-Materiales
 
-7.- Futuras mejoras
+## 4.- Componentes importantes/distintos
+### a-Potenciómetros
+### b-Conmutadores
 
-8.- Conclusiones
+## 5.- Programas que hemos utilizado
 
-**1.- Introducción**
+### a-Proteus
+### b-Circuit Cam
 
-Este proyecto ha sido desarrollado por alumnos de Mantenimiento Electrónico de Don Bosco (Errenteria).
+## 6.- Como hicimos el proyecto
 
-Este proyecto consiste en una mesa de mezclas. La mesa de mezcla de audio o mezcladora de sonidos es un dispositivo electrónico al cual se conectan diversos elementos emisores de audio, como por ejemplo micrófonos etc. Esta mesa irá alimentada a 45V y tendrá un overload por si hay alguna sobrecarga.
+## 7.- Futuras mejoras
 
-Su caja exterior se hizo de parte de madera y parte metacrilato de 8mm de ancho.
+## 8.- Conclusiones
+### *
 
-**2.- Cómo funciona una mesa de mezclas (con sus partes)**
+### *
 
-MICRÓFONO Y PREAMPLIFICACIÓN
+### *
 
-Para el micrófono se ha puesto un conector XLR ya que son para insertar cables con señal balanceada, es decir, el cable tiene tres cablecillos. En un conductor se manda la señal de audio (positivo o Hot) y en el otro se manda la misma señal, pero de forma invertida (negativo o Cold), el tercer conductor es una malla que protege a los dos anteriores de interferencias electromagnéticas.
+## 1.- Introducción
 
-Con este tipo de conexión logramos eliminar el ruido y obtener un audio de mayor volumen y amplitud, que se logra de la siguiente manera: al momento de conectar el cable a un preamplificador, el equipo invierte la señal que viene en el conductor &quot;Cold&quot; convirtiéndola en una señal igual a la señal &quot;Hot&quot;, con la característica de que el ruido que lleva se queda en la misma forma.
+### Este proyecto ha sido desarrollado por alumnos de Mantenimiento Electrónico de Don Bosco (Errenteria). El proyecto tuvo inicio a mediados de Diciembre del 2020 y finalizo a mediados de Febrero del 2021.
 
-El equipo suma la señal del conductor &quot;Hot&quot; con la señal &quot;Cold&quot;, el resultado es una señal de audio del doble de amplitud y una cancelación de ruido, ya que están en sentido contrario. Con la siguiente imagen vemos de forma gráfica lo que sucede:
+### Esta mesa está alimentada a +15V y -15V  y tendrá un overload por si hay alguna sobrecarga. La mesa se compone de 3 canales de audio con entradas Jac y XLR cada una.
+
+### En cuanto a su chasis se hizo de parte de madera y parte metacrilato de 8mm de ancho.
+
+## 2.- Cómo funciona una mesa de mezclas (con sus partes)
+
+### a.- MICRÓFONO Y PREAMPLIFICACIÓN
+
+### Conexionado entradas:
+
+#### Para el micrófono se ha puesto un conector XLR o Jac ya que son para insertar cables con señal balanceada, es decir, el bus tiene tres conectores. En un conductor se manda la señal de audio (positivo o Hot) y en el otro se manda la misma señal, pero de forma invertida es decir, con un desfase de 180º (negativo o Cold), el tercer conductor sería la tierra de nuestra entrada de audio. 
+
+##### En está imagen podéis ver el conexionado de los extremos del cable XLR
+
+![Conexionado_XLR](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKoNDMT6zFwQGYu7mYIKWsKl9cmmbP66WJA&usqp=CAU)
+
+##### En está imagen podéis ver el conexionado del cable Jac comparado y con los XLR
+
+![Jac](https://images-na.ssl-images-amazon.com/images/I/61-UcVEf4fL._AC_SL1500_.jpg)
+
+
+#### Con este tipo de conexión logramos eliminar el ruido y obtener un audio de mayor volumen y amplitud, que se logra de la siguiente manera: al momento de conectar el cable a un preamplificador, el equipo invierte la señal que viene en el conductor &quot;Cold&quot; convirtiéndola en una señal igual a la señal &quot;Hot&quot;, con la característica de que el ruido que lleva se queda en la misma forma.
+
+#### El equipo suma la señal del conductor &quot;Hot&quot; con la señal &quot;Cold&quot;, el resultado es una señal de audio del doble de amplitud y una cancelación de ruido, ya que están en sentido contrario. Con la siguiente imagen vemos de forma gráfica lo que sucede:
+![Hot y COLD](https://ickrom.com.mx/wp-content/uploads/2016/07/suma_se%C3%B1ales.jpg)
 
 ![](RackMultipart20210205-4-pet1t6_html_7e812fab18ce96f4.jpg)
 
-En la preamplificación tenemos dos switches:
+### En la preamplificación tenemos dos switches:
 
-**Primer switch:** Se encarga de conmutar la señal. Si se quiere conectar un instrumento de línea, se activa el switch para el otro lado, la señal hot pasa por R5 y la señal cold pasa por R6, y además, se quedan Cold y hot conectados entre ellos. En esa configuración se consigue un desgaste de 20dB.
+#### Primer switch:Se encarga de conmutar la señal. Si se quiere conectar un instrumento de línea, se activa el switch para el otro lado, la señal hot pasa por R5 y la señal cold pasa por R6, y además, se quedan Cold y hot conectados entre ellos. En esa configuración se consigue un desgaste de 20dB. O dicho de otra forma, a la hora de conectar un instrumento con una tensión mayor se activa una resistencia adicional para que nuestro circuito pueda soportarla.
 
-![](RackMultipart20210205-4-pet1t6_html_af69a471510c8d1b.png)
-
-**Segundo switch:** Se encarga de hacer la suma de las señales la de entrada hot y la entrada cold (con un desfase de 180º). Si hay dos micrófonos es posible que se solapen si uno está muy cerca del otro y se consigue un sonido desagradable, que hace que se anulen entre sí. Para que esto no pase la señal de un micrófono se invierte y todos las partes del sonido se recogen.
+#### Segundo switch: Se encarga de hacer la suma de las señales la de entrada hot y la entrada cold (con un desfase de 180º). Si hay dos micrófonos si uno está muy cerca del otro, es posible que se solapen esto hace que las señales se anulen entre sí. Para que esto no pase la señal de un micrófono se desfasa 180º.
 
 CONTROL DE TONO
 
@@ -219,3 +240,4 @@ La carcasa para la mesa de mezclas, en nuestro proyecto se hizo de aluminio, aun
 A pesar de ser un reto desafiante, ha sido agradable para todos trabajar en este proyecto. Nos ha aportado conocimientos que hemos obtenido unos de otros.
 
 Al reunir todos los procesos, podemos concluir que el proceso ha sido positivo en todos los aspectos. El trabajo realizado ha dado como resultado una variada mesa de mezclas.
+
