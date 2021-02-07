@@ -6,7 +6,7 @@
 
 ### Antes de profundizar en nuestro proyecto aquí tenéis la introducción de lo que vamos a ver:
 <p align="center">
-  <img width="460" height="300" 
+<img width="460" height="300" 
 
 ![Mesa](https://www.softzone.es/app/uploads-softzone.es/2019/10/Mesa-de-mezclas-DJ.jpg)
 # Introdución
