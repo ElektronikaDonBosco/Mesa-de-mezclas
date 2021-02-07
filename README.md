@@ -209,7 +209,7 @@
 ### a.- Potenciómetros logarítmicos/lineales:
 ![](https://3.bp.blogspot.com/-Uc-tN4kcKL0/Vris5dQXSPI/AAAAAAAABrY/sLkZeoC7VJc/s400/p9.png)
 ### -Lineales(B): En estos potenciómetros la resistencia es igual hacia ambas direcciones, hay que tomar en cuenta que el decremento de el valor de la resistencia se produzca da de izquierda a derecha y no al revés.
-#### Conexionado potenciómetro
+
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/pot.PNG)
 ### -Logarítmicos(A):  Estos potenciómetros se caracterizan por ser exclusivos para el audio puesto que se comportan de la misma forma que un oído humano. En tensiones bajas la resistencia sería alta y en tensiones altas la resistencia sería baja. Puesto que el oído humano diferencia mejor el volumen alto al bajo. Por lo tanto la resistencia no es igual a ambos lados y esto es una cosa que hay que tener en cuenta a la hora de hacer el conexionado de los potenciómetros a la placa.
 ![](https://www.cetronic.es/sqlcommerce/ficheros/dk_93/productos/451220008-1.jpg)
@@ -316,16 +316,25 @@ Salidas RCA     | 2 unid
 ### 1-Inicialmente nos hicimos una planificación del proyecto
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/PLANING.PNG)
 ### 2-El siguiente paso fue hacer las simulaciones en proteus de la estapas y partes individuales del canal y demás circuitos cómo, el máster y el overload.
+#### Canal:
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/CANAL_GENERAL.PNG)
+#### Master:
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/MASTER%20GENERAL.PNG)
+#### Overload:
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/OVELOAD%20GENERAL.PNG)
 ### 3-Cuando todas las simulaciones funcionen se realizarán las PCBs de cada circuito, tomando en cuenta que queríamos que los potenciómetros y Swiches no estuvieran en la propia placa y así que ocupara menos espacio la placa.
+#### Canal:
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/PCB%20CANAL.PNG)
+#### Master:
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/PCB%20MASTER.PNG)
+#### Overload:
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/PCB%20OVERLOAD.PNG)
 ### 4-Habiendo echo todos los diseños, importaremos las distintas capas de cada placa al Circuit Cam.
+#### Canal:
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/CIRCUIT_CANAL.PNG)
+#### Master:
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/CIRCUIT_MASTER.PNG)
+#### Overload:
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/CIRCUIT_OVERLOAD.PNG)
 ### 5-Una vez obtenido el LMD del Circuit Cam fresaríamos la placa en el LPKF.
 ### 6- Después de haberse fresado faltaría soldar correctamente cada componente a la placa, evitando lo mínimos cortos y puentes posibles.
