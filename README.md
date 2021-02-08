@@ -70,7 +70,7 @@
 #### Nuestro conector:
 
 <img src="https://quecamarareflex.com/wp-content/uploads/2019/11/sonido-conectores-niveles-cables.jpg" alt="drawing" width="50%"/>
-#### Nuestro conector:
+
 ##### En está imagen podéis ver el conexionado de los extremos del cable XLR
 
 ![Conexionado_XLR](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKoNDMT6zFwQGYu7mYIKWsKl9cmmbP66WJA&usqp=CAU)
