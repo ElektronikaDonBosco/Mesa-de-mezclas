@@ -219,7 +219,7 @@
 
 <img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/RCA.PNG" width="25%"/>
 
-<img src="https://img-aws.ehowcdn.com/750x500/cpi.studiod.com/ehowmedia/a04/nk/c4/solder-rca-connectors-1.2-800x800.jpg" width="45%"/>
+<img src="https://img-aws.ehowcdn.com/750x500/cpi.studiod.com/ehowmedia/a04/nk/c4/solder-rca-connectors-1.2-800x800.jpg" width="55%"/>
 
 #### -Rojo:Señal
 #### -Negro:GND
@@ -227,7 +227,8 @@
 ### Nosotros hemos calculado que nuestro circuito tiene un consumo de menos de 1A y que su alimentación es de +15v y -15V.
 ### Con estos datos hemos comprado una fuente de alimentación a su medida
 ### Fuente:
-![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/fuente.PNG)
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/fuente.PNG" width="35%"/>
+
 ### Link de compra:
 [https://es.rs-online.com/web/p/fuentes-de-alimentacion-de-modo-conmutado-smps-integradas/1227791/](https://es.rs-online.com/web/p/fuentes-de-alimentacion-de-modo-conmutado-smps-integradas/1227791/)
 ## 4- Prototipo y diseño del chasis
