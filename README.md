@@ -190,17 +190,20 @@
 
 <img src="https://www.baudaeletronica.com.br/media/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/l/m/lm1458.jpg" width="30%"/>
 
-<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/LM1458.PNG" width="40%"/>
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/LM1458.PNG" width="45%"/>
 
 ##### BC549: 
-<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/BC549.PNG" width="40%"/>
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/BC549.PNG" width="45%"/>
 
 ### f.-Master:
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/Master.PNG)
 ### Para está etapa necesitaremos 2 amplificadores NE5532, un potenciómetro tandem o doble(a poder ser logarítmico) de 47K y dos faders a su salida de 10ks.
 ##### NE5532:
-![](https://www.eeeshopbd.com/wp-content/uploads/2019/10/NE5532-Op-Amp-.jpg)
+
+<img src="https://www.eeeshopbd.com/wp-content/uploads/2019/10/NE5532-Op-Amp-.jpg" width="20%"/>
+
 ![](https://www.eleccircuit.com/wp-content/uploads/2018/12/pin-configurations-of-ne5532.jpg)
+
 ##### Potenciómetro tandem: 
 ![](https://www.cetronic.es/sqlcommerce/ficheros/dk_93/productos/452047013-1.jpg)
 #### Este circuito es esencial para que esto lo podamos llamar mesa de mezclas, es la ultima etapa, al unir todas las salidas de los canales, por una parte el oído derecho Right(R) y por otra parte el oido izquierdo Left(L). 
