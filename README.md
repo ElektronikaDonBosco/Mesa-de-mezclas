@@ -125,7 +125,7 @@
 
 ### En está etapa también es importante añadir que contamos con un potenciómetro. Pero no es un potenciómetro cualquiera sino uno logarítmico. Este tipo de potenciómetros los explicaremos con más detalle en componentes importes de nuestro circuito. Este potenciómetro tendrá que ser de 10 Ks.
 
-<img src="https://i.ebayimg.com/images/g/WY4AAOSwYf9bAlEn/s-l300.jpg" width="45%"/>
+<img src="https://i.ebayimg.com/images/g/WY4AAOSwYf9bAlEn/s-l300.jpg" width="20%"/>
 
 ### C-Módulo de tono
 ![cc](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/M%C3%93DULO_TONO.PNG) 
