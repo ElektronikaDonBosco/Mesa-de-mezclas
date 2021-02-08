@@ -73,7 +73,10 @@
 
 ##### En está imagen podéis ver el conexionado de los extremos del cable XLR
 
-![Conexionado_XLR](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKoNDMT6zFwQGYu7mYIKWsKl9cmmbP66WJA&usqp=CAU)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKoNDMT6zFwQGYu7mYIKWsKl9cmmbP66WJA&usqp=CAU" alt="drawing" width="50%"/>
+
+##### En está imagen podéis ver el conexionado de los extremos del cable XLR
 
 ##### En está imagen podéis ver el conexionado del cable Jac comparado y con los XLR
 
