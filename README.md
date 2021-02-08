@@ -168,11 +168,13 @@
 
 ### d.-Fader y módulo de panorama
 
-<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/FADER.PNG?raw=true" width="20%"/>
+![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/FADER.PNG?raw=true)
 
 ### Para está etapa utilizaremos el amplificador NE5534 de nuevo y un fadder(logarítmico) y un potenciómetro lineal los dos de 10Ks.
 ### Fadder:
-![](https://images-na.ssl-images-amazon.com/images/I/61tosb4eO7L._AC_SY450_.jpg)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/61tosb4eO7L._AC_SY450_.jpg" width="20%"/>
+
 #### El volumen de la señal se controla con el fader VR1 el cual es un potenciómetro logarítmico . Su cursor está conectado a la entrada positiva del amplificador operacional. El potenciómetro debe ser logarítmico, y el lado con mayor resistencia en el potenciómetro debe estar en la parte superior para igualar las variaciones de resistencia con las mayores diferencias de presión en volúmenes altos. Su función principal es controlar el volumen del canal.
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/VOLUMEN.PNG?raw=true) 
 
