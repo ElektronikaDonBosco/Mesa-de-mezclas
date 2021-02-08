@@ -5,7 +5,7 @@
 ### Este proyecto consiste en una mesa de mezclas. La mesa de mezcla de audio o mezcladora de sonidos es un dispositivo electrónico al cual se conectan diversos elementos emisores de audio, tales como micrófonos etc. 
 
 ### Antes de profundizar en nuestro proyecto aquí tenéis la introducción de lo que vamos a ver:
-![Mesa](https://www.softzone.es/app/uploads-softzone.es/2019/10/Mesa-de-mezclas-DJ.jpg=100x20)
+![Mesa](https://www.softzone.es/app/uploads-softzone.es/2019/10/Mesa-de-mezclas-DJ.jpg = 100x20)
 # Introdución
 
 ## 1.- Presentación General
