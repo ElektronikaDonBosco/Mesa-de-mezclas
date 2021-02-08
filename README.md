@@ -385,11 +385,14 @@ Salidas RCA     | 2 unid
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/PCB%20OVERLOAD.PNG)
 ### 4-Habiendo echo todos los diseños, importaremos las distintas capas de cada placa al Circuit Cam.
 #### Canal:
-![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/CIRCUIT_CANAL.PNG)
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/CIRCUIT_CANAL.PNG" width="40%"/> 
+
 #### Master:
-![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/CIRCUIT_MASTER.PNG)
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/CIRCUIT_MASTER.PNG" width="40%"/>
+
 #### Overload:
-![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/CIRCUIT_OVERLOAD.PNG)
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/CIRCUIT_OVERLOAD.PNG" width="40%"/>
+
 ### 5-Una vez obtenido el LMD del Circuit Cam fresaríamos la placa en el LPKF.
 ### 6- Después de haberse fresado faltaría soldar correctamente cada componente a la placa, evitando lo mínimos cortos y puentes posibles.
 ### 7- Después de soldarlo todo correctamente lo conectaríamos a la fuente correctamente y miraríamos los posibles errores que puedan suceder corrigiendo con paciencia uno por uno.
