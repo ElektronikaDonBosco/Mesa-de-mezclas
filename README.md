@@ -74,13 +74,14 @@
 ##### En está imagen podéis ver el conexionado de los extremos del cable XLR
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKoNDMT6zFwQGYu7mYIKWsKl9cmmbP66WJA&usqp=CAU" alt="drawing" width="50%"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKoNDMT6zFwQGYu7mYIKWsKl9cmmbP66WJA&usqp=CAU" alt="drawing" width="30%"/>
 
 ##### En está imagen podéis ver el conexionado de los extremos del cable XLR
 
 ##### En está imagen podéis ver el conexionado del cable Jac comparado y con los XLR
 
-![Jac](https://images-na.ssl-images-amazon.com/images/I/61-UcVEf4fL._AC_SL1500_.jpg)
+<img src="https://images-na.ssl-images-amazon.com/images/I/61-UcVEf4fL._AC_SL1500_.jpg" alt="drawing" width="30%"/>
+
 
 
 #### Con este tipo de conexión logramos eliminar el ruido y obtener un audio de mayor volumen y amplitud, que se logra de la siguiente manera: al momento de conectar el cable a un preamplificador, el equipo invierte la señal que viene en el conductor &quot;Cold&quot; convirtiéndola en una señal igual a la señal &quot;Hot&quot;, con la característica de que el ruido que lleva se queda en la misma forma.
