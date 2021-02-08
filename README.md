@@ -70,7 +70,7 @@
 #### Nuestro conector:
 
 <img src="https://quecamarareflex.com/wp-content/uploads/2019/11/sonido-conectores-niveles-cables.jpg" alt="drawing" width="50%"/>
-
+#### Nuestro conector:
 ##### En está imagen podéis ver el conexionado de los extremos del cable XLR
 
 ![Conexionado_XLR](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKoNDMT6zFwQGYu7mYIKWsKl9cmmbP66WJA&usqp=CAU)
@@ -346,14 +346,12 @@ Salidas RCA     | 2 unid
 ## 8- Fotos de nuestro prototipo final
 
 ## 9- Futuras mejoras
+### Mediante este apartado explicaremos los cambios que se podrían hacer para tener una mejor funcionalidad del proyecto.
 ### a.-Una PCB diseñada sin puentes con cables: al tener que hacer que hacer puentes con cablecitos, nos costó más encontrar algún que otro corto. Para la próxima, haríamos esos mismos puentes como pistas en la PCB.
 ### b.-Reajuste de elementos para una optimización de tamaño: nos hubiese gustado que la mesa fuese más pequeña.
 ### c.-Poner canales extras: en vez de 3 canales, hacer 4.
 ### d.-Una alimentación Phantom: para micrófonos que requieran de ella.
 ### e.-Tira de LEDs: para visualizar el volumen de la señal, así se mantiene en niveles óptimos para no distorsionar.
-
-### Mediante este apartado explicaremos los cambios que se podrían hacer para tener una mejor funcionalidad del proyecto.
-
 ### a.-WIFI/Bluetooth: Pensamos que la mesa podría tener incorporada un chip de Wifi o Bluetooth para así conectar el móvil a la mesa y poner la música que uno quiera.
 ![](https://www.ibizasound.es/modules//smartblog/images/11-single-default.jpg)
 ### b.- Fuente de alimentación Phantom: La mesa de mezclas tiene un preamplificador. Para alimentar este preamplificador se puede usar el phantom power que proviene de una unidad externa. La idea detrás de esto es que la mesa no necesite una fuente de alimentación propia, haciendo además que disminuya el tamaño, el peso y la practicidad general de la mesa. La denominación proviene del hecho de que la alimentación es «invisible» es decir que se encuentra dentro del dispositivo al que vamos a conectar la mesa y no por fuera o como parte de la mesa.
@@ -362,7 +360,7 @@ Salidas RCA     | 2 unid
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSi7y3uH1tEaec26_hcp_16PZdjzfGF0zE8L56kNKDIlbIKgpsh-QzfkH3oipn4GyHLV6ycw&usqp=CAc)
 ### d.- Carcasa de fuera de madera: La carcasa para la mesa de mezclas, en nuestro proyecto se hizo de aluminio, aunque en un principio nuestra idea fue hacerla de madera, ya que no es conductora, y además la mesa quedaría con un estilo más clásico. También tuvimos la idea de imprimir la carcasa en una impresora 3D, pero no tuvimos tiempo suficiente para aprender a diseñar la caja en el programa 3D y para imprimirla. Todas las mesas que veíamos en internet eran de plástico o de algún metal, con un estilo moderno, así que al final decidimos hacerla de aluminio, y lo más parecido al resto de mesas que se venden.
 
-## 8.- Conclusiones:
-
+## 8.- Conclusiones
+## En nuestra opinión, este reto nos ha parecido muy completo, y hemos aprendido mucho de él. Lo que más claro nos ha quedado
 ### Espero que este proyecto y su planteamiento os haya gustado. Os animamos a meteros en este mundo de jugar con el audio y las señales, puesto que es muy divertido y apasionante.
 ![](https://www.grupomotiva.es/wp-content/uploads/2018/05/700_FO44921268_e15135a8cbdffad7ff87122357149255.jpg)
