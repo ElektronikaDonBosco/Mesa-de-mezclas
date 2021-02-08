@@ -200,9 +200,9 @@
 ### Para está etapa necesitaremos 2 amplificadores NE5532, un potenciómetro tandem o doble(a poder ser logarítmico) de 47K y dos faders a su salida de 10ks.
 ##### NE5532:
 
-<img src="https://www.eeeshopbd.com/wp-content/uploads/2019/10/NE5532-Op-Amp-.jpg" width="20%"/>
+<img src="https://www.eeeshopbd.com/wp-content/uploads/2019/10/NE5532-Op-Amp-.jpg" width="30%"/>
 
-![](https://www.eleccircuit.com/wp-content/uploads/2018/12/pin-configurations-of-ne5532.jpg)
+<img src="https://www.eleccircuit.com/wp-content/uploads/2018/12/pin-configurations-of-ne5532.jpg" width="45%"/>
 
 ##### Potenciómetro tandem: 
 ![](https://www.cetronic.es/sqlcommerce/ficheros/dk_93/productos/452047013-1.jpg)
