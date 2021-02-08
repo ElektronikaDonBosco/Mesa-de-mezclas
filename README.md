@@ -80,7 +80,7 @@
 
 ##### En está imagen podéis ver el conexionado del cable Jac comparado y con los XLR
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/61-UcVEf4fL._AC_SL1500_.jpg" alt="drawing" width="30%"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/61-UcVEf4fL._AC_SL1500_.jpg" alt="drawing" width="50%"/>
 
 
 
