@@ -206,7 +206,7 @@
 
 ##### Potenciómetro tandem: 
 
-<img src="https://www.cetronic.es/sqlcommerce/ficheros/dk_93/productos/452047013-1.jpg" width="30%"/>
+<img src="https://www.cetronic.es/sqlcommerce/ficheros/dk_93/productos/452047013-1.jpg" width="25%"/>
 
 #### Este circuito es esencial para que esto lo podamos llamar mesa de mezclas, es la ultima etapa, al unir todas las salidas de los canales, por una parte el oído derecho Right(R) y por otra parte el oido izquierdo Left(L). 
 #### Además de unir todos los canales manipula la ganancia de las entradas L y R en el circuito a través de un potenciómetro tándem.
@@ -216,7 +216,9 @@
 ### g.-Salida Circuito:
 ### La salida de nuestro circuito será mediante conectores RCA. El conexionado se haría de esta forma:
 ##### RCA:
-![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/RCA.PNG)
+
+<img src="github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/RCA.PNG" width="30%"/>
+
 ![](https://img-aws.ehowcdn.com/750x500/cpi.studiod.com/ehowmedia/a04/nk/c4/solder-rca-connectors-1.2-800x800.jpg)
 #### -Rojo:Señal
 #### -Negro:GND
