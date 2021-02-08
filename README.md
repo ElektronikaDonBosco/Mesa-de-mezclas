@@ -134,7 +134,7 @@
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/31xBGOjAhlL._SX342_.jpg" width="20%"/>
 
-![](https://lh3.googleusercontent.com/proxy/k8oEtUVUr1JYcjfNeOEl9LhDXrSurikn38Z2CgafiFh2vA2BfVOPOCDD0M38EXN1F6vaTJv5y0cCxldmrhrlFAKbHNyfzPNjWplEn_CMWgvr5cofWIbugSw)
+![](https://lh3.googleusercontent.com/proxy/9aEgTxghJpVxXU9ekmuZiN8th70voAFiwvZXsaQxTk0mvfzYpMVQcSatpSAk_scUZLTqW61iSP6yO6yzW3Fb-7rxFQ5URvTv0oECaa9PE3jM12iNxSFkmxQ)
 
 #### TL072:
 
