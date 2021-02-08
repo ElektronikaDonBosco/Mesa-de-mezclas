@@ -70,10 +70,10 @@
 #### Nuestro conector:
 
 <img src="https://quecamarareflex.com/wp-content/uploads/2019/11/sonido-conectores-niveles-cables.jpg" alt="drawing" width="40%"/>
-En está imagen podéis ver el conexionado de los extremos del cable XLR
+####  En está imagen podéis ver el conexionado de los extremos del cable XLR
 
 ![Conexionado_XLR]()
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKoNDMT6zFwQGYu7mYIKWsKl9cmmbP66WJA&usqp=CAU" width="100%"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKoNDMT6zFwQGYu7mYIKWsKl9cmmbP66WJA&usqp=CAU" width="50%"/>
 
 #### En está imagen podéis ver el conexionado del cable Jac comparado y con los XLR
 
