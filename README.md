@@ -295,12 +295,16 @@ Salidas RCA     | 2 unid
 
 <img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/proteus.PNG" width="10%"/>
 <img src="https://i.postimg.cc/DzKKFRwX/Screenshot-2nn.png" width="50%"/>
+
 ####  Además, hay un apartado en el proteus donde podemos hacer una de una PCB y descargar todas las capas que compone el  archivo.
 
 ![](https://file.pcbway.com/2014314175554866.jpg)
+
 ### CircuitCam: Cuando hallamos descargado estas capas anteriormente mencionadas podremos unificarlas en esté programa y hacer alguna pequeña modificación como un recorte al rededor de la placa o poner alguna nomenclatura en la propia placa. 
 ![](https://circuitcam.com/sites/circuitcam.eu/themes/circuitcam/logo.png) 
-![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/CIRCUIT.PNG)
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/CIRCUIT.PNG" width="40%"/>
+
+
 ### LPKF: Es la fresadora que hemos usado, una vez unificado el archivo en el CircuitCam nos lo pasará a formato .LMD y entoncen podremos fresarlo en está maquina.
 ![](https://img.directindustry.es/images_di/photo-g/9183-11896049.jpg) 
 
