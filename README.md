@@ -264,9 +264,11 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8tHVVdpEUYAHuWVtubn27rbdienan6Q88aw&usqp=CAU" width="40%"/>
 
 ### c.- Switches: Los Switches del esquema y los físicos tienen un orden de patillaje lógico pero no es el mismo por lo tanto es otro apartado a tomar en cuenta. 
-#### Su funcionamiento sería el siguiente, un Swich se compone de 6 pines. Cuando tu activas el interruptor los dos pines paralelos del lado opuesto se activan y salen cada uno por el pin contiguo del medio. Al cambiar de dirección el interruptor pararían los pines paralelos del otro lado opuesto por los pin contiguo del medio.
-![](http://www.geekbotelectronics.com/wp-content/uploads/2015/06/Switch-de-palanca-mts-202-458x458.jpg)
-![](http://www.geekbotelectronics.com/wp-content/uploads/2015/06/switch2p2t_diagrama.png)
+#### Su funcionamiento sería el siguiente, un Swich se compone de 6 pines. Cuando tu activas el interruptor los dos pines paralelos del lado opuesto se activan y salen cada uno
+por el pin contiguo del medio. Al cambiar de dirección el interruptor pararían los pines paralelos del otro lado opuesto por los pin contiguo del medio.
+<img src="http://www.geekbotelectronics.com/wp-content/uploads/2015/06/Switch-de-palanca-mts-202-458x458.jpg" width="30%"/>
+<img src="http://www.geekbotelectronics.com/wp-content/uploads/2015/06/switch2p2t_diagrama.png" width="45%"/>
+
 ##### COMPONENTES MÁS IMPORTANTES
 COMPONENTES | Cantidad |
 ------------ | ------------ 
