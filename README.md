@@ -248,10 +248,11 @@
 ### a.- Potenciómetros logarítmicos/lineales:
 ![](https://3.bp.blogspot.com/-Uc-tN4kcKL0/Vris5dQXSPI/AAAAAAAABrY/sLkZeoC7VJc/s400/p9.png)
 ### -Lineales(B): En estos potenciómetros la resistencia es igual hacia ambas direcciones, hay que tomar en cuenta que el decremento de el valor de la resistencia se produzca de izquierda a derecha y no al revés.
-
-![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/pot.PNG)
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/pot.PNG" width="50%"/>
 ### -Logarítmicos(A):  Estos potenciómetros se caracterizan por ser exclusivos para el audio puesto que se comportan de la misma forma que un oído humano. En tensiones bajas la resistencia sería alta y en tensiones altas la resistencia sería baja. Puesto que el oído humano diferencia mejor el volumen alto al bajo. Por lo tanto la resistencia no es igual a ambos lados y esto es una cosa que hay que tener en cuenta a la hora de hacer el conexionado de los potenciómetros a la placa.
-![](https://www.cetronic.es/sqlcommerce/ficheros/dk_93/productos/451220008-1.jpg)
+
+<img src="https://www.cetronic.es/sqlcommerce/ficheros/dk_93/productos/451220008-1.jpg" width="30%"/>
+
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/pot_log.PNG)
 
 ### b.- Fadder: Estos potenciómetros también son logarítmicos pero su patillaje es distinto. A la hora del conexionado es otro apartado a tomar en cuenta.
