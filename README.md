@@ -135,9 +135,13 @@
 <img src="https://images-na.ssl-images-amazon.com/images/I/31xBGOjAhlL._SX342_.jpg" width="20%"/>
 
 ![](https://lh3.googleusercontent.com/proxy/k8oEtUVUr1JYcjfNeOEl9LhDXrSurikn38Z2CgafiFh2vA2BfVOPOCDD0M38EXN1F6vaTJv5y0cCxldmrhrlFAKbHNyfzPNjWplEn_CMWgvr5cofWIbugSw)
+
 #### TL072:
+
 <img src="https://images-na.ssl-images-amazon.com/images/I/61yl5gXcnzL._SX385_.jpg" width="20%"/>
+
 ![](https://lh3.googleusercontent.com/proxy/M30C3jQO8HthNn8VVvilcqOA_-JKo2vMZLESvaip99FVQ-JcUlmB_KIcdKq7r3HxMWlJQemKfCh41S_PzbW5VY_iP48rDjop0-dFQy0sW3qlw6uTAWqQTg)
+
 ### En está etapa todos los potenciómetros serán linéales.
 #### En esta etapa según la señal que recibamos bien sea de altos(Rv7), medios(Rv6) o bajos(Rv5)  podremos balancear la señal a la mejor calidad auditiva según a cuanta frecuencia esté llegando nuestra señal. Estos potenciómetros serán de 10Ks. 
 ![](https://www.ecobadajoz.es/2606/potenciometro-de-plastico-10k-lineal-mod-p61020026.jpg) 
