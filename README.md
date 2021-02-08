@@ -187,8 +187,11 @@
 #### Está etapa en la mesa de mezclas es opcional, su función principal es avisarnos cuando hay una sobrecarga en mi canal, este aviso no lo notificará a través de un led. Este led se encenderá cuando la tensión sea mayor a 3V o cuando esté por encima de los 6 Db. Esto sucederá cuando el transistor del esquema se excite. 
 #### Esté circuito se compone principalmente de dos amplificadores LM1458 y del transistor BC549.
 ##### LM1458:
-![](https://www.baudaeletronica.com.br/media/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/l/m/lm1458.jpg)
-![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/LM1458.PNG)
+
+<img src="www.baudaeletronica.com.br/media/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/l/m/lm1458.jpg" width="20%"/>
+
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/LM1458.PNG" width="50%"/>
+
 ##### BC549: 
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/BC549.PNG)
 ### f.-Master:
