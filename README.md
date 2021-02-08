@@ -113,18 +113,20 @@
 #### El INA217 es ideal para señales de audio de bajo nivel, como baja impedancia balanceada micrófonos. Muchos instrumentos industriales, médicos y de instrumentación Las aplicaciones también se benefician de su bajo nivel de ruido y amplio ancho de banda. Los circuitos de cancelación de distorsión únicos reducen la distorsión a niveles extremadamente bajos, incluso en alta ganancia. 
 <img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/INA_FOTO.PNG" width="25%"/>
 
-<img src="https://www.ti.com/ds_dgm/images/fbd_sbos360f.gif" width="40%"/>
+<img src="https://www.ti.com/ds_dgm/images/fbd_sbos360f.gif" width="45%"/>
 
-###- Circuito de amplificación: Se basa en un amplificador no invertido.
-####La resistencia variable RV1 tiene una masa conectada. Cuando el cursor está en el medio de RV1, 50% de la trayectoria de RV1, las ondas de salida y entrada son las mismas, con ganancia = 1 o 0 dB.
+### -Circuito de amplificación: Se basa en un amplificador no invertido.
+#### La resistencia variable RV1 tiene una masa conectada. Cuando el cursor está en el medio de RV1, 50% de la trayectoria de RV1, las ondas de salida y entrada son las mismas, con ganancia = 1 o 0 dB.
 
-####Cuando el cursor se coloca en el 75% de la trayectoria RV1, la masa se acerca a la entrada positiva y la señal se cancela. Si los valores R1, RV1 y R2 tienen los valores correctos, como se muestra en la figura, colocando el cursor en esta posición, la señal de salida será la mitad de la entrada, la ganancia es = 0.5 o -6db.
-####Cuando coloca el cursor en el 25% de la trayectoria RV1, la masa se acerca a la entrada negativa. Cuando la señal se cancela en la entrada negativa, se amplificará en la salida. Ganancia = 2db-6db. 
+#### Cuando el cursor se coloca en el 75% de la trayectoria RV1, la masa se acerca a la entrada positiva y la señal se cancela. Si los valores R1, RV1 y R2 tienen los valores correctos, como se muestra en la figura, colocando el cursor en esta posición, la señal de salida será la mitad de la entrada, la ganancia es = 0.5 o -6db.
+#### Cuando coloca el cursor en el 25% de la trayectoria RV1, la masa se acerca a la entrada negativa. Cuando la señal se cancela en la entrada negativa, se amplificará en la salida. Ganancia = 2db-6db. 
 
 ![ina](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/INA217.PNG)
 
 ### En está etapa también es importante añadir que contamos con un potenciómetro. Pero no es un potenciómetro cualquiera sino uno logarítmico. Este tipo de potenciómetros los explicaremos con más detalle en componentes importes de nuestro circuito. Este potenciómetro tendrá que ser de 10 Ks.
-![](https://i.ebayimg.com/images/g/WY4AAOSwYf9bAlEn/s-l300.jpg)
+
+<img src="https://i.ebayimg.com/images/g/WY4AAOSwYf9bAlEn/s-l300.jpg" width="45%"/>
+
 ### C-Módulo de tono
 ![cc](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/M%C3%93DULO_TONO.PNG) 
 ### Para esté circuito necesitaremos 2 amplificadores operacionales un NE5534 y un TL072
