@@ -292,9 +292,9 @@ Salidas RCA     | 2 unid
 ## 6- Programas que hemos utilizado
 
 ### Proteus: con este programa podremos crear los diferentes circuitos que necesitamos y podremos simularlos en el. De esta forma podremos comprobar de antemano posibles fallos que pueden aparecer.
-![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/proteus.PNG) 
 
-![](https://i.postimg.cc/DzKKFRwX/Screenshot-2nn.png)
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/proteus.PNG" width="20%"/>
+<img src="https://i.postimg.cc/DzKKFRwX/Screenshot-2nn.png" width="40%"/>
 ####  Además, hay un apartado en el proteus donde podemos hacer una de una PCB y descargar todas las capas que compone el  archivo.
 
 ![](https://file.pcbway.com/2014314175554866.jpg)
