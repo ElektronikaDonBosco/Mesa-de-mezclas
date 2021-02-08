@@ -145,7 +145,7 @@
 ### En está etapa todos los potenciómetros serán linéales.
 #### En esta etapa según la señal que recibamos bien sea de altos(Rv7), medios(Rv6) o bajos(Rv5)  podremos balancear la señal a la mejor calidad auditiva según a cuanta frecuencia esté llegando nuestra señal. Estos potenciómetros serán de 10Ks.
 
-<img src="https://www.ecobadajoz.es/2606/potenciometro-de-plastico-10k-lineal-mod-p61020026.jpg"width="20%"/>
+<img src="https://www.ecobadajoz.es/2606/potenciometro-de-plastico-10k-lineal-mod-p61020026.jpg" width="20%"/>
 
 ![s](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/BAJOS_MEDIOS_AGUDOS.PNG)
 
