@@ -202,7 +202,7 @@
 
 <img src="https://www.eeeshopbd.com/wp-content/uploads/2019/10/NE5532-Op-Amp-.jpg" width="30%"/>
 
-<img src="https://www.eleccircuit.com/wp-content/uploads/2018/12/pin-configurations-of-ne5532.jpg" width="45%"/>
+<img src="https://www.eleccircuit.com/wp-content/uploads/2018/12/pin-configurations-of-ne5532.jpg" width="60%"/>
 
 ##### Potenciómetro tandem: 
 ![](https://www.cetronic.es/sqlcommerce/ficheros/dk_93/productos/452047013-1.jpg)
