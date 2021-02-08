@@ -258,8 +258,11 @@
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/pot_log.PNG)
 
 ### b.- Fadder: Estos potenciómetros también son logarítmicos pero su patillaje es distinto. A la hora del conexionado es otro apartado a tomar en cuenta.
-![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/fadeee.PNG)
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8tHVVdpEUYAHuWVtubn27rbdienan6Q88aw&usqp=CAU)
+
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/fadeee.PNG" width="40%"/>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8tHVVdpEUYAHuWVtubn27rbdienan6Q88aw&usqp=CAU" width="60%"/>
+
 ### c.- Switches: Los Switches del esquema y los físicos tienen un orden de patillaje lógico pero no es el mismo por lo tanto es otro apartado a tomar en cuenta. 
 #### Su funcionamiento sería el siguiente, un Swich se compone de 6 pines. Cuando tu activas el interruptor los dos pines paralelos del lado opuesto se activan y salen cada uno por el pin contiguo del medio. Al cambiar de dirección el interruptor pararían los pines paralelos del otro lado opuesto por los pin contiguo del medio.
 ![](http://www.geekbotelectronics.com/wp-content/uploads/2015/06/Switch-de-palanca-mts-202-458x458.jpg)
