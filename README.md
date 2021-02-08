@@ -219,7 +219,7 @@
 
 <img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/RCA.PNG" width="25%"/>
 
-<img src="https://img-aws.ehowcdn.com/750x500/cpi.studiod.com/ehowmedia/a04/nk/c4/solder-rca-connectors-1.2-800x800.jpg" width="30%"/>
+<img src="https://img-aws.ehowcdn.com/750x500/cpi.studiod.com/ehowmedia/a04/nk/c4/solder-rca-connectors-1.2-800x800.jpg" width="45%"/>
 
 #### -Rojo:Señal
 #### -Negro:GND
