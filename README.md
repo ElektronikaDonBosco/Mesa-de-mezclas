@@ -103,7 +103,8 @@
 #### Se encarga de hacer la suma de las señales la de entrada hot y la entrada cold (con un desfase de 180º). Si hay dos micrófonos si uno está muy cerca del otro, es posible que se solapen esto hace que las señales se anulen entre sí. Para que esto no pase la señal de un micrófono se desfasa 180º.
 
 ![sw2](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/sw2.PNG)
-![](https://www.redmaule.com/diarios_en_red/site/artic/20200120/imag/foto_0000000420200120113844/microfonos-escenario-concierto-sobre-fondo-ilum.jpg)
+<img src="https://www.redmaule.com/diarios_en_red/site/artic/20200120/imag/foto_0000000420200120113844/microfonos-escenario-concierto-sobre-fondo-ilum.jpg" width="50%"/>
+
 ### b.-Preamplificación
 ![preamp](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/PREAMPLIFICACI%C3%93N.PNG) 
 
