@@ -202,10 +202,12 @@
 
 <img src="https://www.eeeshopbd.com/wp-content/uploads/2019/10/NE5532-Op-Amp-.jpg" width="30%"/>
 
-<img src="https://www.eleccircuit.com/wp-content/uploads/2018/12/pin-configurations-of-ne5532.jpg" width="60%"/>
+<img src="https://www.eleccircuit.com/wp-content/uploads/2018/12/pin-configurations-of-ne5532.jpg" width="65%"/>
 
 ##### Potenciómetro tandem: 
-![](https://www.cetronic.es/sqlcommerce/ficheros/dk_93/productos/452047013-1.jpg)
+
+<img src="https://www.cetronic.es/sqlcommerce/ficheros/dk_93/productos/452047013-1.jpg" width="30%"/>
+
 #### Este circuito es esencial para que esto lo podamos llamar mesa de mezclas, es la ultima etapa, al unir todas las salidas de los canales, por una parte el oído derecho Right(R) y por otra parte el oido izquierdo Left(L). 
 #### Además de unir todos los canales manipula la ganancia de las entradas L y R en el circuito a través de un potenciómetro tándem.
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/TAMDEM_ESQUEMA.PNG)
