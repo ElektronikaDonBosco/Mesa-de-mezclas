@@ -409,7 +409,7 @@ Salidas RCA     | 2 unid
 ### e.-Tira de LEDs: para visualizar el volumen de la señal, así se mantiene en niveles óptimos para no distorsionar.
 ### a.-WIFI/Bluetooth: Pensamos que la mesa podría tener incorporada un chip de Wifi o Bluetooth para así conectar el móvil a la mesa y poner la música que uno quiera.
 
-<img src="www.ibizasound.es/modules//smartblog/images/11-single-default.jpg" width="30%"/>
+<img src="https://www.ibizasound.es/modules//smartblog/images/11-single-default.jpg" width="30%"/>
 
 
 ### b.- Fuente de alimentación Phantom: La mesa de mezclas tiene un preamplificador. Para alimentar este preamplificador se puede usar el phantom power que proviene de una unidad externa. La idea detrás de esto es que la mesa no necesite una fuente de alimentación propia, haciendo además que disminuya el tamaño, el peso y la practicidad general de la mesa. La denominación proviene del hecho de que la alimentación es «invisible» es decir que se encuentra dentro del dispositivo al que vamos a conectar la mesa y no por fuera o como parte de la mesa.
@@ -423,4 +423,5 @@ Salidas RCA     | 2 unid
 ## 8.- Conclusiones
 ## En nuestra opinión, este reto nos ha parecido muy completo, y hemos aprendido mucho de él. Lo que más claro nos ha quedado, es que una PCB más limpia y sin puentes, los potenciómetros bien apuntados sus pines, y todos los conectores que van a las PCB iguales, nos hubiesen solucionado muchos problemas que hemos tenido y sobre todo nos hubiese ahorrado tiempo.
 ### Espero que este proyecto y su planteamiento os haya gustado. Os animamos a meteros en este mundo de jugar con el audio y las señales, puesto que es muy divertido y apasionante.
-![](https://www.grupomotiva.es/wp-content/uploads/2018/05/700_FO44921268_e15135a8cbdffad7ff87122357149255.jpg)
+<img src="https://www.grupomotiva.es/wp-content/uploads/2018/05/700_FO44921268_e15135a8cbdffad7ff87122357149255.jpg" width="40%"/>
+
