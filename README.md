@@ -69,13 +69,12 @@
 #### En un conductor se manda la señal de audio (positivo o Hot) y en el otro se manda la misma señal, pero de forma invertida es decir, con un desfase de 180º (negativo o Cold), el tercer conductor sería la tierra de nuestra entrada de audio. 
 #### Nuestro conector:
 
-<img src="https://quecamarareflex.com/wp-content/uploads/2019/11/sonido-conectores-niveles-cables.jpg" alt="drawing" width="40%"/>
-#### En está imagen podéis ver el conexionado de los extremos del cable XLR
+<img src="https://quecamarareflex.com/wp-content/uploads/2019/11/sonido-conectores-niveles-cables.jpg" alt="drawing" width="50%"/>
+##### En está imagen podéis ver el conexionado de los extremos del cable XLR
 
-![Conexionado_XLR]()
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKoNDMT6zFwQGYu7mYIKWsKl9cmmbP66WJA&usqp=CAU" width="20%"/>
+![Conexionado_XLR](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKoNDMT6zFwQGYu7mYIKWsKl9cmmbP66WJA&usqp=CAU)
 
-#### En está imagen podéis ver el conexionado del cable Jac comparado y con los XLR
+##### En está imagen podéis ver el conexionado del cable Jac comparado y con los XLR
 
 ![Jac](https://images-na.ssl-images-amazon.com/images/I/61-UcVEf4fL._AC_SL1500_.jpg)
 
@@ -108,11 +107,11 @@
 #### El INA217 es ideal para señales de audio de bajo nivel, como baja impedancia balanceada micrófonos. Muchos instrumentos industriales, médicos y de instrumentación Las aplicaciones también se benefician de su bajo nivel de ruido y amplio ancho de banda. Los circuitos de cancelación de distorsión únicos reducen la distorsión a niveles extremadamente bajos, incluso en alta ganancia. 
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/INA_FOTO.PNG)
 ![](https://www.ti.com/ds_dgm/images/fbd_sbos360f.gif)
-### Circuito de amplificación: Se basa en un amplificador no invertido.
-####  La resistencia variable RV1 tiene una masa conectada. Cuando el cursor está en el medio de RV1, 50% de la trayectoria de RV1, las ondas de salida y entrada son las mismas, con ganancia = 1 o 0 dB.
+###- Circuito de amplificación: Se basa en un amplificador no invertido.
+####La resistencia variable RV1 tiene una masa conectada. Cuando el cursor está en el medio de RV1, 50% de la trayectoria de RV1, las ondas de salida y entrada son las mismas, con ganancia = 1 o 0 dB.
 
-####  Cuando el cursor se coloca en el 75% de la trayectoria RV1, la masa se acerca a la entrada positiva y la señal se cancela. Si los valores R1, RV1 y R2 tienen los valores correctos, como se muestra en la figura, colocando el cursor en esta posición, la señal de salida será la mitad de la entrada, la ganancia es = 0.5 o -6db.
-####  Cuando coloca el cursor en el 25% de la trayectoria RV1, la masa se acerca a la entrada negativa. Cuando la señal se cancela en la entrada negativa, se amplificará en la salida. Ganancia = 2db-6db. 
+####Cuando el cursor se coloca en el 75% de la trayectoria RV1, la masa se acerca a la entrada positiva y la señal se cancela. Si los valores R1, RV1 y R2 tienen los valores correctos, como se muestra en la figura, colocando el cursor en esta posición, la señal de salida será la mitad de la entrada, la ganancia es = 0.5 o -6db.
+####Cuando coloca el cursor en el 25% de la trayectoria RV1, la masa se acerca a la entrada negativa. Cuando la señal se cancela en la entrada negativa, se amplificará en la salida. Ganancia = 2db-6db. 
 
 ![ina](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/INA217.PNG)
 
@@ -346,6 +345,11 @@ Salidas RCA     | 2 unid
 ## 8- Fotos de nuestro prototipo final
 
 ## 9- Futuras mejoras
+### a.-Una PCB diseñada sin puentes con cables: al tener que hacer que hacer puentes con cablecitos, nos costó más encontrar algún que otro corto. Para la próxima, haríamos esos mismos puentes como pistas en la PCB.
+### b.-Reajuste de elementos para una optimización de tamaño: nos hubiese gustado que la mesa fuese más pequeña.
+### c.-Poner canales extras: en vez de 3 canales, hacer 4.
+### d.-Una alimentación Phantom: para micrófonos que requieran de ella.
+### e.-Tira de LEDs: para visualizar el volumen de la señal, así se mantiene en niveles óptimos para no distorsionar.
 
 ### Mediante este apartado explicaremos los cambios que se podrían hacer para tener una mejor funcionalidad del proyecto.
 
