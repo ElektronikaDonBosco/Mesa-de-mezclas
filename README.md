@@ -150,7 +150,9 @@
 ![s](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/BAJOS_MEDIOS_AGUDOS.PNG)
 
 #### De la misma manera en este circuito contamos con un potenciómetro adicional de 1M:
-![](https://mundoelectronica.net/905-large_default/potenciometro-lineal-monovuelta-1m-200mw-eje-36x6mm-plastico.jpg)
+
+<img src="https://mundoelectronica.net/905-large_default/potenciometro-lineal-monovuelta-1m-200mw-eje-36x6mm-plastico.jpg" width="20%"/>
+
 #### Con este potenciómetro podremos balancear la señal en caso de que esté en el punto medio:
 #### -bajo-medio
 #### -medio-alto 
