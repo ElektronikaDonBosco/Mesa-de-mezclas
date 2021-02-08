@@ -111,9 +111,9 @@
 ### En está etapa como podéis ver contaremos con el INA217 o tambien llamado amplificador instrumental, el cual, se compone interiormente por 3 amplificadores, su función principal es unir las dos señales La hot y cold para así solo optener una a la salida amplificada de está etapa.
 
 #### El INA217 es ideal para señales de audio de bajo nivel, como baja impedancia balanceada micrófonos. Muchos instrumentos industriales, médicos y de instrumentación Las aplicaciones también se benefician de su bajo nivel de ruido y amplio ancho de banda. Los circuitos de cancelación de distorsión únicos reducen la distorsión a niveles extremadamente bajos, incluso en alta ganancia. 
-<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/INA_FOTO.PNG" width="40%"/>
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/INA_FOTO.PNG" width="30%"/>
 
-<img src="https://www.ti.com/ds_dgm/images/fbd_sbos360f.gif" width="40%"/>
+<img src="https://www.ti.com/ds_dgm/images/fbd_sbos360f.gif" width="30%"/>
 
 ###- Circuito de amplificación: Se basa en un amplificador no invertido.
 ####La resistencia variable RV1 tiene una masa conectada. Cuando el cursor está en el medio de RV1, 50% de la trayectoria de RV1, las ondas de salida y entrada son las mismas, con ganancia = 1 o 0 dB.
