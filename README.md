@@ -131,10 +131,12 @@
 ![cc](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/M%C3%93DULO_TONO.PNG) 
 ### Para esté circuito necesitaremos 2 amplificadores operacionales un NE5534 y un TL072
 #### NE5534:
-![](https://images-na.ssl-images-amazon.com/images/I/31xBGOjAhlL._SX342_.jpg)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/31xBGOjAhlL._SX342_.jpg" width="20%"/>
+
 ![](https://lh3.googleusercontent.com/proxy/k8oEtUVUr1JYcjfNeOEl9LhDXrSurikn38Z2CgafiFh2vA2BfVOPOCDD0M38EXN1F6vaTJv5y0cCxldmrhrlFAKbHNyfzPNjWplEn_CMWgvr5cofWIbugSw)
 #### TL072:
-![](https://images-na.ssl-images-amazon.com/images/I/61yl5gXcnzL._SX385_.jpg)
+<img src="https://images-na.ssl-images-amazon.com/images/I/61yl5gXcnzL._SX385_.jpg" width="20%"/>
 ![](https://lh3.googleusercontent.com/proxy/sIc2U5EprCQRG51IeWl56NoaSJQsMe6T2gIRrHlYKl-wa-Pe4Nl_m6JJGJvIyH4Xhasr62orkr94oZTwfVpbkCgIuLREJWDwxM3w3SGPYs_j2BrtTi4nGQ)
 ### En está etapa todos los potenciómetros serán linéales.
 #### En esta etapa según la señal que recibamos bien sea de altos(Rv7), medios(Rv6) o bajos(Rv5)  podremos balancear la señal a la mejor calidad auditiva según a cuanta frecuencia esté llegando nuestra señal. Estos potenciómetros serán de 10Ks. 
