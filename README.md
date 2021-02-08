@@ -69,6 +69,7 @@
 #### En un conductor se manda la señal de audio (positivo o Hot) y en el otro se manda la misma señal, pero de forma invertida es decir, con un desfase de 180º (negativo o Cold), el tercer conductor sería la tierra de nuestra entrada de audio. 
 #### Nuestro conector:
 ![](https://quecamarareflex.com/wp-content/uploads/2019/11/sonido-conectores-niveles-cables.jpg)
+<img src="https://quecamarareflex.com/wp-content/uploads/2019/11/sonido-conectores-niveles-cables.jpg" alt="drawing" width="50%"/>
 ##### En está imagen podéis ver el conexionado de los extremos del cable XLR
 
 ![Conexionado_XLR](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKoNDMT6zFwQGYu7mYIKWsKl9cmmbP66WJA&usqp=CAU)
