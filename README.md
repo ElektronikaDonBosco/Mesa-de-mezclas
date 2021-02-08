@@ -409,12 +409,12 @@ Salidas RCA     | 2 unid
 ### e.-Tira de LEDs: para visualizar el volumen de la señal, así se mantiene en niveles óptimos para no distorsionar.
 ### a.-WIFI/Bluetooth: Pensamos que la mesa podría tener incorporada un chip de Wifi o Bluetooth para así conectar el móvil a la mesa y poner la música que uno quiera.
 
-<img src="https://www.ibizasound.es/modules//smartblog/images/11-single-default.jpg" width="30%"/>
+<img src="https://www.ibizasound.es/modules//smartblog/images/11-single-default.jpg" width="40%"/>
 
 
 ### b.- Fuente de alimentación Phantom: La mesa de mezclas tiene un preamplificador. Para alimentar este preamplificador se puede usar el phantom power que proviene de una unidad externa. La idea detrás de esto es que la mesa no necesite una fuente de alimentación propia, haciendo además que disminuya el tamaño, el peso y la practicidad general de la mesa. La denominación proviene del hecho de que la alimentación es «invisible» es decir que se encuentra dentro del dispositivo al que vamos a conectar la mesa y no por fuera o como parte de la mesa.
 
-<img src="https://www.audio-technica.com/es-us/media/catalog/product/cache/aee8318de9d8e245b6b604605849c7dc/c/p/cp8506_01.png" width="30%"/>
+<img src="https://www.audio-technica.com/es-us/media/catalog/product/cache/aee8318de9d8e245b6b604605849c7dc/c/p/cp8506_01.png" width="40%"/>
 
 ### c.-Poner un conector USB: Se podría añadir a la mesa un conector USB.
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSi7y3uH1tEaec26_hcp_16PZdjzfGF0zE8L56kNKDIlbIKgpsh-QzfkH3oipn4GyHLV6ycw&usqp=CAc)
