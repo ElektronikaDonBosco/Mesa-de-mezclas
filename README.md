@@ -211,7 +211,7 @@
 
 ### a.- Potenciómetros logarítmicos/lineales:
 ![](https://3.bp.blogspot.com/-Uc-tN4kcKL0/Vris5dQXSPI/AAAAAAAABrY/sLkZeoC7VJc/s400/p9.png)
-### -Lineales(B): En estos potenciómetros la resistencia es igual hacia ambas direcciones, hay que tomar en cuenta que el decremento de el valor de la resistencia se produzca da de izquierda a derecha y no al revés.
+### -Lineales(B): En estos potenciómetros la resistencia es igual hacia ambas direcciones, hay que tomar en cuenta que el decremento de el valor de la resistencia se produzca de izquierda a derecha y no al revés.
 
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/pot.PNG)
 ### -Logarítmicos(A):  Estos potenciómetros se caracterizan por ser exclusivos para el audio puesto que se comportan de la misma forma que un oído humano. En tensiones bajas la resistencia sería alta y en tensiones altas la resistencia sería baja. Puesto que el oído humano diferencia mejor el volumen alto al bajo. Por lo tanto la resistencia no es igual a ambos lados y esto es una cosa que hay que tener en cuenta a la hora de hacer el conexionado de los potenciómetros a la placa.
@@ -361,6 +361,6 @@ Salidas RCA     | 2 unid
 ### d.- Carcasa de fuera de madera: La carcasa para la mesa de mezclas, en nuestro proyecto se hizo de aluminio, aunque en un principio nuestra idea fue hacerla de madera, ya que no es conductora, y además la mesa quedaría con un estilo más clásico. También tuvimos la idea de imprimir la carcasa en una impresora 3D, pero no tuvimos tiempo suficiente para aprender a diseñar la caja en el programa 3D y para imprimirla. Todas las mesas que veíamos en internet eran de plástico o de algún metal, con un estilo moderno, así que al final decidimos hacerla de aluminio, y lo más parecido al resto de mesas que se venden.
 
 ## 8.- Conclusiones
-## En nuestra opinión, este reto nos ha parecido muy completo, y hemos aprendido mucho de él. Lo que más claro nos ha quedado
+## En nuestra opinión, este reto nos ha parecido muy completo, y hemos aprendido mucho de él. Lo que más claro nos ha quedado, es que una PCB más limpia y sin puentes, los potenciómetros bien apuntados sus pines, y todos los conectores que van a las PCB iguales, nos hubiesen solucionado muchos problemas que hemos tenido y sobre todo nos hubiese ahorrado tiempo.
 ### Espero que este proyecto y su planteamiento os haya gustado. Os animamos a meteros en este mundo de jugar con el audio y las señales, puesto que es muy divertido y apasionante.
 ![](https://www.grupomotiva.es/wp-content/uploads/2018/05/700_FO44921268_e15135a8cbdffad7ff87122357149255.jpg)
