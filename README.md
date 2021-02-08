@@ -378,14 +378,15 @@ Salidas RCA     | 2 unid
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/OVELOAD%20GENERAL.PNG)
 ### 3-Cuando todas las simulaciones funcionen se realizarán las PCBs de cada circuito, tomando en cuenta que queríamos que los potenciómetros y Swiches no estuvieran en la propia placa y así que ocupara menos espacio la placa.
 #### Canal:
-![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/PCB%20CANAL.PNG)
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/PCB%20CANAL.PNG" width="30%"/>
+
 #### Master:
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/PCB%20MASTER.PNG)
 #### Overload:
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/PCB%20OVERLOAD.PNG)
 ### 4-Habiendo echo todos los diseños, importaremos las distintas capas de cada placa al Circuit Cam.
 #### Canal:
-<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/CIRCUIT_CANAL.PNG" width="40%"/> 
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/CIRCUIT_CANAL.PNG" width="20%"/> 
 
 #### Master:
 <img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/CIRCUIT_MASTER.PNG" width="40%"/>
