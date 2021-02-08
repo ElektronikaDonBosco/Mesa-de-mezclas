@@ -188,12 +188,13 @@
 #### Esté circuito se compone principalmente de dos amplificadores LM1458 y del transistor BC549.
 ##### LM1458:
 
-<img src="https://www.baudaeletronica.com.br/media/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/l/m/lm1458.jpg" width="20%"/>
+<img src="https://www.baudaeletronica.com.br/media/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/l/m/lm1458.jpg" width="30%"/>
 
 <img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/LM1458.PNG" width="40%"/>
 
 ##### BC549: 
-![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/BC549.PNG)
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/BC549.PNG" width="40%"/>
+
 ### f.-Master:
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/Master.PNG)
 ### Para está etapa necesitaremos 2 amplificadores NE5532, un potenciómetro tandem o doble(a poder ser logarítmico) de 47K y dos faders a su salida de 10ks.
