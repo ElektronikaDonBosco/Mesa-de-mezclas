@@ -143,8 +143,10 @@
 ![](https://lh3.googleusercontent.com/proxy/M30C3jQO8HthNn8VVvilcqOA_-JKo2vMZLESvaip99FVQ-JcUlmB_KIcdKq7r3HxMWlJQemKfCh41S_PzbW5VY_iP48rDjop0-dFQy0sW3qlw6uTAWqQTg)
 
 ### En está etapa todos los potenciómetros serán linéales.
-#### En esta etapa según la señal que recibamos bien sea de altos(Rv7), medios(Rv6) o bajos(Rv5)  podremos balancear la señal a la mejor calidad auditiva según a cuanta frecuencia esté llegando nuestra señal. Estos potenciómetros serán de 10Ks. 
-![](https://www.ecobadajoz.es/2606/potenciometro-de-plastico-10k-lineal-mod-p61020026.jpg) 
+#### En esta etapa según la señal que recibamos bien sea de altos(Rv7), medios(Rv6) o bajos(Rv5)  podremos balancear la señal a la mejor calidad auditiva según a cuanta frecuencia esté llegando nuestra señal. Estos potenciómetros serán de 10Ks.
+
+<img src="https://www.ecobadajoz.es/2606/potenciometro-de-plastico-10k-lineal-mod-p61020026.jpg"20%"/>
+
 ![s](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/BAJOS_MEDIOS_AGUDOS.PNG)
 
 #### De la misma manera en este circuito contamos con un potenciómetro adicional de 1M:
