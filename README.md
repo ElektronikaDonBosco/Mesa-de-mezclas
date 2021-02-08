@@ -167,7 +167,9 @@
 #### -Verde pino: Potenciómetro balance (Bajo-Medio) y (Medio-Alto)
 
 ### d.-Fader y módulo de panorama
-![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/FADER.PNG?raw=true)
+
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/FADER.PNG?raw=true" width="20%"/>
+
 ### Para está etapa utilizaremos el amplificador NE5534 de nuevo y un fadder(logarítmico) y un potenciómetro lineal los dos de 10Ks.
 ### Fadder:
 ![](https://images-na.ssl-images-amazon.com/images/I/61tosb4eO7L._AC_SY450_.jpg)
