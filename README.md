@@ -396,6 +396,15 @@ Salidas RCA     | 2 unid
 
 ### 5-Una vez obtenido el LMD del Circuit Cam fresaríamos la placa en el LPKF.
 ### 6- Después de haberse fresado faltaría soldar correctamente cada componente a la placa, evitando lo mínimos cortos y puentes posibles.
+##### Para ello seguimos estos pasos:
+###### 1- MIentras se está fresando la placa etiquetar y coger correctemente cada componente que necesitamos para la placa que ballamos ha hacer. (recomendamos un canal puesto que es de los más costoso de hacer).
+###### Comprobaciones Canal:
+####### 1-Una vez fresado, nos aseguraríamos que los agujeros coinciden con todos los componentes correctamente, de no ser así con la brocadora manual agrandaríamos estos orificios.
+###### 2-Soldariamos los componentes con mucho cuidado, recomendamos soldar los zócalos de los chips de los amplificadores y no el chip directamente.
+###### 3- Después de hacer la primera etapa, con ayuda de un generador de señales introducimos la señal y nos aseguramos que SW1 atenua la señal Y que Sw2 genera un desfase. Esto lo visualizaríamos en el ociloscopio.
+###### 4-Posteriormente pasariamos a la segunda etapa, asegurandonos que el INA y el primer potencimétro que hace referencia a la ganancia funciona correctamente y no al revés. Para esto conectaremos dos fuentes de alimentzción en serie a +15V, la union GND y la salida de la fuente -15V.
+###### 5-Una vez está etapa funcione pasaremos a la etapa de tono el la cual será necesarío hacer unos puentes  en el +15v y -15V de los amplificadores Tl072 y NE5534. Además habra que comprobar que los potencimetros de tono y el filtrador funciona adecuadamente en la frecuencia apropiada.
+###### 6- Por ´´ultimo en el canal construiríamos la etapa de salida la cual hbria que comprobar el NE554 y el fadder del volumen junto con el potencimétro lineal. Y ver como le damos o le quitamos prioridad el canal derecho o al izquierdo.
 ### 7- Después de soldarlo todo correctamente lo conectaríamos a la fuente correctamente y miraríamos los posibles errores que puedan suceder corrigiendo con paciencia uno por uno.
 
 ## 8- Fotos de nuestro prototipo final
