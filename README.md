@@ -6,7 +6,7 @@
 
 ### Antes de profundizar en nuestro proyecto aquí tenéis la introducción de lo que vamos a ver:
 ![Mesa](https://www.softzone.es/app/uploads-softzone.es/2019/10/Mesa-de-mezclas-DJ.jpg)
-<img src="https://www.softzone.es/app/uploads-softzone.es/2019/10/Mesa-de-mezclas-DJ.jpg" alt="drawing" width="50%"/>
+
 # Introdución
 
 ## 1.- Presentación General
