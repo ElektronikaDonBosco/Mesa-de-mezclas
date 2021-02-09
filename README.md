@@ -392,11 +392,14 @@ Salidas RCA     | 2 unid
 <img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/CIRCUIT_MASTER.PNG" width="30%"/>
 
 #### Overload:
+
 <img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/CIRCUIT_OVERLOAD.PNG" width="30%"/>
 
 ### 5-Una vez obtenido el LMD del Circuit Cam fresaríamos la placa en el LPKF.
 ### 6- Después de haberse fresado faltaría soldar correctamente cada componente a la placa, evitando lo mínimos cortos y puentes posibles.
+
 ##### Para ello seguimos estos pasos:
+
 ###### 1- MIentras se está fresando la placa etiquetar y coger correctemente cada componente que necesitamos para la placa que ballamos ha hacer. (recomendamos un canal puesto que es de los más costoso de hacer).
 ###### Comprobaciones Canal:
 ####### 1-Una vez fresado, nos aseguraríamos que los agujeros coinciden con todos los componentes correctamente, de no ser así con la brocadora manual agrandaríamos estos orificios.
@@ -406,6 +409,13 @@ Salidas RCA     | 2 unid
 ###### 5-Una vez está etapa funcione pasaremos a la etapa de tono el la cual será necesarío hacer unos puentes  en el +15v y -15V de los amplificadores Tl072 y NE5534. Además habra que comprobar que los potencimetros de tono y el filtrador funciona adecuadamente en la frecuencia apropiada.
 ###### 6- Por ´´ultimo en el canal construiríamos la etapa de salida la cual hbria que comprobar el NE554 y el fadder del volumen junto con el potencimétro lineal. Y ver como le damos o le quitamos prioridad el canal derecho o al izquierdo.
 ### 7- Después de soldarlo todo correctamente lo conectaríamos a la fuente correctamente y miraríamos los posibles errores que puedan suceder corrigiendo con paciencia uno por uno.
+##### Comprovaciones master:
+###### 1- Nos aseguramos que metiendo una señal de 0,5mV el tamdem amplifica su ganancia y los fadders la prioridad de cada canal.
+###### 2- Una vez echo eso nos aseguramos que un canal funciona y lo unimos al master. Comprobamos que su salida funciona
+###### 3- Conectamos la entrada a un dispositivo o entrada de audio externa y la salida a un amplificador. Y nos aseguramos que funcione.
+###### 4- Conectamos los canales al master y nos aseguramos que funcionen.
+##### Comprobaciones Overload:
+###### 1- Introducimos una señal de entrada que en el osciloscopio podamos ver una caida  de 6db o que es lo mismo 3V. Si se enciende funciona correctamente y cuando introducimos una tensión menor se tendrá que apagar.
 
 ## 8- Fotos de nuestro prototipo final
 
