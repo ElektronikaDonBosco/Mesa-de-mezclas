@@ -420,8 +420,8 @@ Salidas RCA     | 2 unid
 ###### 1- Introducimos una señal de entrada que en el osciloscopio podamos ver una caida  de 6db o que es lo mismo 3V. Si se enciende funciona correctamente y cuando introducimos una tensión menor se tendrá que apagar.
 
 ## 8- Fotos de nuestro prototipo final
-<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/Chasis.jpeg?raw=true" width="40%"/>
-<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/Chasis%20entradas.jpeg?raw=true"10%"/>
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/Chasis.jpeg?raw=true" width="50%"/>
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/Chasis%20entradas.jpeg?raw=true"5%"/>
 ## 9- Futuras mejoras
 ### Mediante este apartado explicaremos los cambios que se podrían hacer para tener una mejor funcionalidad del proyecto.
 ### a.-Una PCB diseñada sin puentes con cables: al tener que hacer que hacer puentes con cablecitos, nos costó más encontrar algún que otro corto. Para la próxima, haríamos esos mismos puentes como pistas en la PCB.
