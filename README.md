@@ -8,6 +8,7 @@
 ![Mesa](https://www.softzone.es/app/uploads-softzone.es/2019/10/Mesa-de-mezclas-DJ.jpg)
 
 <img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/Chasis.jpeg?raw=true" alt="drawing" width="50%"/>
+
 # Introdución
 
 ## 1.- Presentación General
@@ -233,6 +234,7 @@
 ### Link de compra:
 [https://es.rs-online.com/web/p/fuentes-de-alimentacion-de-modo-conmutado-smps-integradas/1227791/](https://es.rs-online.com/web/p/fuentes-de-alimentacion-de-modo-conmutado-smps-integradas/1227791/)
 ## 4- Prototipo y diseño del chasis
+
 ### Nuestra caja está echa parte de madera y parte de metacrilato.
 
 ### La parte  trasera, los 3 laterales son de metraquilato
@@ -242,8 +244,8 @@
 
 
 #### Estás serían las medidas de nuestra caja:
-
-
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/Chasis.jpeg?raw=true" width="20%"/>
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/Chasis%20entradas.jpeg?raw=true"20%"/>
 ## 5- Componentes importantes/distintos
 
 ### a.- Potenciómetros logarítmicos/lineales:
