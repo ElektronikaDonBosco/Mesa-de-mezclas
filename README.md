@@ -422,7 +422,7 @@ Salidas RCA     | 2 unid
 ## 8- Fotos de nuestro prototipo final
 <img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/Chasis.jpeg?raw=true" width="50%"/>
 
-<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/Chasis%20entradas.jpeg?raw=true"10%"/>
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/Chasis%20entradas.jpeg?raw=true width="10%"/>
 
 ## 9- Futuras mejoras
 
