@@ -15,7 +15,7 @@
 
 ### a- Entrada de audio
 
-### b-Preamplificación
+### b- Preamplificación
 
 ### c- Control de tono
 
@@ -110,7 +110,7 @@
 
 ### En está etapa como podéis ver contaremos con el INA217 o tambien llamado amplificador instrumental, el cual, se compone interiormente por 3 amplificadores, su función principal es unir las dos señales La hot y cold para así solo optener una a la salida amplificada de está etapa.
 
-#### El INA217 es ideal para señales de audio de bajo nivel, como baja impedancia balanceada micrófonos. Muchos instrumentos industriales, médicos y de instrumentación Las aplicaciones también se benefician de su bajo nivel de ruido y amplio ancho de banda. Los circuitos de cancelación de distorsión únicos reducen la distorsión a niveles extremadamente bajos, incluso en alta ganancia. 
+#### El INA217 es ideal para señales de audio de bajo nivel, como baja impedancia balanceada micrófonos, muchos instrumentos industriales, médicos y de instrumentación. Las aplicaciones también se benefician de su bajo nivel de ruido y amplio ancho de banda. Los circuitos de cancelación de distorsión únicos reducen la distorsión a niveles extremadamente bajos, incluso en alta ganancia. 
 <img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/INA_FOTO.PNG" width="25%"/>
 
 <img src="https://www.ti.com/ds_dgm/images/fbd_sbos360f.gif" width="45%"/>
@@ -142,7 +142,7 @@
 
 ![](https://lh3.googleusercontent.com/proxy/M30C3jQO8HthNn8VVvilcqOA_-JKo2vMZLESvaip99FVQ-JcUlmB_KIcdKq7r3HxMWlJQemKfCh41S_PzbW5VY_iP48rDjop0-dFQy0sW3qlw6uTAWqQTg)
 
-### En está etapa todos los potenciómetros serán linéales.
+### En está etapa todos los potenciómetros serán lineales.
 #### En esta etapa según la señal que recibamos bien sea de altos(Rv7), medios(Rv6) o bajos(Rv5)  podremos balancear la señal a la mejor calidad auditiva según a cuanta frecuencia esté llegando nuestra señal. Estos potenciómetros serán de 10Ks.
 
 <img src="https://www.ecobadajoz.es/2606/potenciometro-de-plastico-10k-lineal-mod-p61020026.jpg" width="20%"/>
@@ -159,10 +159,10 @@
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/MEDIO_TONO.PNG)
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/GR%C3%81FICO_TONO.PNG)
 
-#### En cuanto a las frecuencia que se adecua a cada etapa aquí tenéis un resumido esquema de estás frecuencias:
+#### En cuanto a las frecuencia que se adecua a cada etapa aquí tenéis un resumido esquema de estas frecuencias:
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/tono_hz.PNG)
 #### -Azul: Bajos
-#### -Verde musgo: Medíos
+#### -Verde musgo: Medios
 #### -Rojo: Altos
 #### -Verde pino: Potenciómetro balance (Bajo-Medio) y (Medio-Alto)
 
@@ -265,7 +265,7 @@
 
 ### c.- Switches: Los Switches del esquema y los físicos tienen un orden de patillaje lógico pero no es el mismo por lo tanto es otro apartado a tomar en cuenta. 
 #### Su funcionamiento sería el siguiente, un Swich se compone de 6 pines. Cuando tu activas el interruptor los dos pines paralelos del lado opuesto se activan y salen cada uno
-por el pin contiguo del medio. Al cambiar de dirección el interruptor pararían los pines paralelos del otro lado opuesto por los pin contiguo del medio.
+#### por el pin contiguo del medio. Al cambiar de dirección el interruptor pararían los pines paralelos del otro lado opuesto por los pin contiguo del medio.
 
 <img src="http://www.geekbotelectronics.com/wp-content/uploads/2015/06/Switch-de-palanca-mts-202-458x458.jpg" width="20%"/>
 
