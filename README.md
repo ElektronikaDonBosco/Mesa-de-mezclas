@@ -223,7 +223,7 @@
 ### La salida de nuestro circuito será mediante conectores RCA. El conexionado se haría de esta forma:
 ##### RCA:
 
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR63qlxCNPXiXhUiHlXzkzCJx35ejPnK0x7hbBsfEn5avS336WDOVyF-2pMMg&usqp=CAc" width="40%"/>
 
 <img src="https://img-aws.ehowcdn.com/750x500/cpi.studiod.com/ehowmedia/a04/nk/c4/solder-rca-connectors-1.2-800x800.jpg" width="55%"/>
 
