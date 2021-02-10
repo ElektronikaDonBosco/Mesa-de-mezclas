@@ -415,7 +415,8 @@ Salidas RCA     | 2 unid
 
 ###### Comprobaciones Canal:
 
-####### 1-Una vez fresado, nos aseguraríamos que los agujeros coinciden con todos los componentes correctamente, de no ser así con la brocadora manual agrandaríamos estos orificios.
+
+###### 1-Una vez fresado, nos aseguraríamos que los agujeros coinciden con todos los componentes correctamente, de no ser así con la brocadora manual agrandaríamos estos orificios.
 
 ###### 2-Soldariamos los componentes con mucho cuidado, recomendamos soldar los zócalos de los chips de los amplificadores y no el chip directamente.
 
