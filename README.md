@@ -220,6 +220,7 @@
 ##### RCA:
 
 <img src= "https://www.musicalfidelity.com/uploads/XLR_pinouts.svg.png" width="40%"/>
+
 ###### 1-GROUND
 ###### 2-V+
 ###### 3-V-
