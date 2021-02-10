@@ -219,7 +219,7 @@
 ### La salida de nuestro circuito será mediante conectores RCA. El conexionado se haría de esta forma:
 ##### RCA:
 
-<img src= "https://www.musicalfidelity.com/uploads/XLR_pinouts.svg.png"width="40%"/>
+<img src= "https://www.musicalfidelity.com/uploads/XLR_pinouts.svg.png" width="40%"/>
 ###### 1-GROUND
 ###### 2-V+
 ###### 3-V-
