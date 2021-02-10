@@ -321,12 +321,16 @@ Salidas RCA     | 2 unid
 #### En caso de que queráis modificar la PCB o hacer una nueva, aquí tenéis un vídeo de está explicación
 (https://www.youtube.com/watch?v=XJa_qg5qkqw&feature=emb_logo&ab_channel=KrissElectronics)
 
-### Después si queremos hacer una PCB, para poder pasarla al Circuit Cam los pasos son los siguientes:  
+### Después si queremos hacer una PCB, para poder pasarla al Circuit Cam los pasos son los siguientes: 
+
 #### 1-Le daremos al icono rojo que aparece debajo de design.
+
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/1.PNG)
 
 #### 2-Aparecerá una nueva página en negro donde habrá que hacer la PCB. 
+
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/2.PNG)
+
 #### 3-Una vez terminada la PCB, hay que sacar los ficheros para poder llevarlo al Circuit Cam. Para ello, hay que clicar `Output´ (que está arriba a la izquierda), darle a `Generate Gerber/Excellon file´, le damos a Yes, y aparecerá una pantalla como la de a continuación.
 
 
@@ -335,6 +339,7 @@ Salidas RCA     | 2 unid
 #### 5-Abrimos el Circuit Cam (pondremos link también para poder descargarlo)
 
 #### 6-Una vez abierto, tenemos que clicar en el icono que aparece en la imagen siguiente, para ir poniendo las capas de nuestra placa.
+
 ![](https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/3.PNG)
 
 #### 7-Cuando clicamos nos aparecerá esta pantalla:
