@@ -76,7 +76,11 @@
 ##### En está imagen podéis ver el conexionado de los extremos del cable XLR
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKoNDMT6zFwQGYu7mYIKWsKl9cmmbP66WJA&usqp=CAU" alt="drawing" width="30%"/>
+<img src= "https://www.musicalfidelity.com/uploads/XLR_pinouts.svg.png" width="40%"/>
+
+###### 1-GROUND
+###### 2-V+
+###### 3-V-
 
 ##### En está imagen podéis ver el conexionado de los extremos del cable XLR
 
@@ -219,11 +223,7 @@
 ### La salida de nuestro circuito será mediante conectores RCA. El conexionado se haría de esta forma:
 ##### RCA:
 
-<img src= "https://www.musicalfidelity.com/uploads/XLR_pinouts.svg.png" width="40%"/>
 
-###### 1-GROUND
-###### 2-V+
-###### 3-V-
 
 <img src="https://img-aws.ehowcdn.com/750x500/cpi.studiod.com/ehowmedia/a04/nk/c4/solder-rca-connectors-1.2-800x800.jpg" width="55%"/>
 
