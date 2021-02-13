@@ -412,6 +412,19 @@ Salidas RCA     | 2 unid
 <img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/CIRCUIT_OVERLOAD.PNG" width="30%"/>
 
 ### 5-Una vez obtenido el LMD del Circuit Cam fresaríamos la placa en el LPKF.
+
+#### Canal:
+
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/mesa/Im%C3%A1genes/canal_placa.PNG" width="30%"/>
+
+#### Master:
+
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/mesa/Im%C3%A1genes/master_placa.PNG" width="30%"/>
+
+#### Overload:
+
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/mesa/Im%C3%A1genes/overload_placa.PNG" width="30%"/>
+
 ### 6- Después de haberse fresado faltaría soldar correctamente cada componente a la placa, evitando lo mínimos cortos y puentes posibles.
 
 ##### Para ello seguimos estos pasos:
