@@ -238,6 +238,7 @@
 ### Link de compra:
 [https://es.rs-online.com/web/p/fuentes-de-alimentacion-de-modo-conmutado-smps-integradas/1227791/](https://es.rs-online.com/web/p/fuentes-de-alimentacion-de-modo-conmutado-smps-integradas/1227791/)
 ## 4- Prototipo y diseño del chasis
+
 <img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/mesa/Im%C3%A1genes/mesa_chasis.PNG" alt="drawing" width="50%"/>
 <img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/mesa/Im%C3%A1genes/mesa_chasis2.PNG" alt="drawing" width="50%"/>
 Esá es la página dónde nos han echo el diseño.
@@ -245,6 +246,7 @@ https://www.creartech.es/
 ### Nuestra caja está echa parte de madera y parte de metacrilato.
 
 ### La parte  trasera, los 3 laterales son de metraquilato
+
 #### -La partes restantes es decir, el lateral superior y la parte delantera son de madera.
 #### -El lateral superior tiene los conectores  de alimentación y el interruptor
 #### En la parte superior tenemos: Switches, potenciómetros, Fadder , Entradas Jack/XLR y salidas RCA
