@@ -415,7 +415,7 @@ Salidas RCA     | 2 unid
 
 #### Canal:
 
-<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/mesa/Im%C3%A1genes/canal_placa.PNG" width="30%"/>
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/mesa/Im%C3%A1genes/canal_placa.PNG" width="50%"/>
 
 #### Master:
 
