@@ -7,7 +7,7 @@
 ### Antes de profundizar en nuestro proyecto aquí tenéis la introducción de lo que vamos a ver:
 ![Mesa](https://www.softzone.es/app/uploads-softzone.es/2019/10/Mesa-de-mezclas-DJ.jpg)
 
-<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/main/Im%C3%A1genes/Chasis.jpeg?raw=true" alt="drawing" width="50%"/>
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/mesa/Im%C3%A1genes/mesa_chasis.PNG" alt="drawing" width="50%"/>
 
 # Introdución
 
@@ -238,7 +238,10 @@
 ### Link de compra:
 [https://es.rs-online.com/web/p/fuentes-de-alimentacion-de-modo-conmutado-smps-integradas/1227791/](https://es.rs-online.com/web/p/fuentes-de-alimentacion-de-modo-conmutado-smps-integradas/1227791/)
 ## 4- Prototipo y diseño del chasis
-
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/mesa/Im%C3%A1genes/mesa_chasis.PNG" alt="drawing" width="50%"/>
+<img src="https://github.com/Mesa-de-mezclas/Mesa-de-mezclas/blob/mesa/Im%C3%A1genes/mesa_chasis2.PNG" alt="drawing" width="50%"/>
+Esá es la página dónde nos han echo el diseño.
+https://www.creartech.es/ 
 ### Nuestra caja está echa parte de madera y parte de metacrilato.
 
 ### La parte  trasera, los 3 laterales son de metraquilato
